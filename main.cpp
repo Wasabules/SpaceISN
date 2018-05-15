@@ -8,13 +8,13 @@
 #include <string>
 #include <math.h>
 #include <cstdlib>
-#include <library.h>
-#include <letters.h>
-#include <numbers.h>
-#include <texts.h>
-#include <ingame.h>
-#include <menu.h>
-#include <windows.h> 
+#include "library.h"
+#include "letters.h"
+#include "numbers.h"
+#include "texts.h"
+#include "ingame.h"
+#include "menu.h"
+#include "windows.h" 
 
 using namespace std;
 
